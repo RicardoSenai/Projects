@@ -63,7 +63,7 @@ namespace DAL //Namespace da camada de Banco de Dados. Pode ter qualquer nome, n
         }
 
         //Procedimento para executar um comando SQL no Banco de Dados
-        //Os comandos permitidos são: INSERT, UPDATE  e  DELETE 
+        //Os comandos permitidos são: INSERT, UPDATE e DELETE 
         public void ExecutarComandoSQL(string comandoSql)
         {
             //Concretiza a criação do objeto "comando"
