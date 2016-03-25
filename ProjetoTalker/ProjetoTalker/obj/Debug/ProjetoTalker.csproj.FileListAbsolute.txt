@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\bin\Debug\ProjetoTalker.exe.config
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\bin\Debug\ProjetoTalker.exe
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\bin\Debug\ProjetoTalker.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\obj\Debug\ProjetoTalker.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\obj\Debug\ProjetoTalker.Form1.resources
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\obj\Debug\ProjetoTalker.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\obj\Debug\ProjetoTalker.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\obj\Debug\ProjetoTalker.exe
+c:\users\administrador\documents\visual studio 2013\Projects\ProjetoTalker\ProjetoTalker\obj\Debug\ProjetoTalker.pdb

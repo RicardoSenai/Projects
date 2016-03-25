@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.frmCadastroCliente.resources
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+c:\users\administrador\documents\visual studio 2013\Projects\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
