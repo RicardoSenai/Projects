@@ -27,6 +27,8 @@ namespace Projeto3Camadas
         {
             dto.Nome = txtNome.Text;
             dto.Email = txtEmail.Text;
+            // Apos receber os dados, envia-los ao banco mysal.
+            //
             bll.Inserir(dto);
 
         }
