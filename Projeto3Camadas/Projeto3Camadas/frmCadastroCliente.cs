@@ -11,8 +11,6 @@ using Projeto3Camadas.Code.BLL;
 using Projeto3Camadas.Code.DTO;
 
 
-
-
 namespace Projeto3Camadas
 {
     public partial class frmCadastroCliente : Form

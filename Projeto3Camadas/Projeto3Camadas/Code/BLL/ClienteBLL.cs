@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 using Projeto3Camadas.Code.DTO;
 using DAL;
 
-
-
 namespace Projeto3Camadas.Code.BLL
 {
     class ClienteBLL

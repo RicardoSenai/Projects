@@ -10,6 +10,9 @@ using System.Data;
 
 //Namespace necessário para utilizar os recursos específicos de manipulação de Banco de Dados MySQL
 //NOTA: Deve-se importar a biblioteca do MySQL, obviamente ele precisa estar instalado no computador
+//      Se preciso adicionar em referências MySql.Data
+// 27/03
+
 using MySql.Data.MySqlClient; 
 
 namespace DAL //Namespace da camada de Banco de Dados. Pode ter qualquer nome, no entanto, por padrão chamamos de DAL - Data Access Layer
